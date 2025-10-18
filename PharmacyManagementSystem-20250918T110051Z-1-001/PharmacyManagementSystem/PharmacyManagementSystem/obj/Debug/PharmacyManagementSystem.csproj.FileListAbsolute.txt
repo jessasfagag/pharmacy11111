@@ -1,0 +1,62 @@
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe.config
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MainForm.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminAddOrders.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminAlert.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminDashboard.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminInventory.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminOrders.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.invAddProd.resources
+C:\Users\aeron\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.inventoryProd.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe.config
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminAddOrders.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminAlert.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminDashboard.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminInventory.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminOrders.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Archive.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.invAddProd.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.inventoryProd.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MainForm.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\von\Desktop\jesscabalida\PharmacyManagementSystem-20250917T074056Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe.config
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminAddOrders.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminAlert.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminDashboard.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminOrders.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Archive.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.invAddProd.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MainForm.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.User_management.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Report.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.set.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Inventory.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.CategoriesManagement.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.OrderManagement.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\jessc\OneDrive\Desktop\design ni jess\PharmacyManagementSystem-20250918T110051Z-1-001\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.announcement.resources

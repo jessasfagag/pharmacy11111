@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D3191F41-74C2-4D08-8E1C-B878BB64FD80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PharmacyManagementSystem</RootNamespace>
+    <AssemblyName>PharmacyManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminAddOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminAddOrders.Designer.cs">
+      <DependentUpon>AdminAddOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAlert.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminAlert.Designer.cs">
+      <DependentUpon>AdminAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminOrders.Designer.cs">
+      <DependentUpon>AdminOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="announcement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="announcement.Designer.cs">
+      <DependentUpon>announcement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Archive.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Archive.Designer.cs">
+      <DependentUpon>Archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoriesManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CategoriesManagement.Designer.cs">
+      <DependentUpon>CategoriesManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="invAddProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="invAddProd.Designer.cs">
+      <DependentUpon>invAddProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrderManagement.Designer.cs">
+      <DependentUpon>OrderManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="set.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="set.Designer.cs">
+      <DependentUpon>set.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_management.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_management.Designer.cs">
+      <DependentUpon>User_management.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminAddOrders.resx">
+      <DependentUpon>AdminAddOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminAlert.resx">
+      <DependentUpon>AdminAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminOrders.resx">
+      <DependentUpon>AdminOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="announcement.resx">
+      <DependentUpon>announcement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Archive.resx">
+      <DependentUpon>Archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoriesManagement.resx">
+      <DependentUpon>CategoriesManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="invAddProd.resx">
+      <DependentUpon>invAddProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderManagement.resx">
+      <DependentUpon>OrderManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="set.resx">
+      <DependentUpon>set.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_management.resx">
+      <DependentUpon>User_management.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard_35dp_E3E3E3_FILL0_wght400_GRAD0_opsz40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory_35dp_E3E3E3_FILL0_wght400_GRAD0_opsz40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory_20dp_E3E3E3_FILL0_wght400_GRAD0_opsz20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campaign_35dp_E3E3E3_FILL0_wght400_GRAD0_opsz40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orders_35dp_E3E3E3_FILL0_wght400_GRAD0_opsz40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_35dp_E3E3E3_FILL0_wght400_GRAD0_opsz40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groups_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mystery_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pending_actions_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fact_check_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoooo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logooo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microphone %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
